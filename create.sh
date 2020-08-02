@@ -1,0 +1,1 @@
+aws cloudformation --stack-name udagram--template-body file://project02.yml --parameters file://projet02.json --region us-west-2
